@@ -62,7 +62,7 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 10. Langkah selanjut nya buat lah akun di http://github.com  
 11. Jika sudah memiliki akun buat lah repository baru **new repository** 
 
-masukan gambar
+![image](https://user-images.githubusercontent.com/72904414/96368208-e45f4d80-117c-11eb-803e-69ea42bc62a8.png)
 
 12.	Langkah selanjutnya mengisi repository nya 
 
