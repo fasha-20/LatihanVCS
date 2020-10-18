@@ -45,11 +45,11 @@ warna merah tersebut berarti file belum di add.
 
 8. 	Cara nya dengan mengetik `git add <file>` atau jika file yang merah lebih dari satu ( git 	add . )
 
-masukan gambar
+![image](https://user-images.githubusercontent.com/72904414/96367980-343d1500-117b-11eb-9ad6-0931a5c66c60.png)
 
 untuk mengecek nya ketik `git status`
 
-masukan gambar
+
 
 maka warna file nya akan berubah hijau, file sudah di add.
 
