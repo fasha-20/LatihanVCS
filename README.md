@@ -34,11 +34,11 @@ Membuat Tutorian GIT
 
 6.	Setelah itu buat file **README.md** dengan mengertik ` (echo “latihan 4" >> 	README.md)`
 
-
+![image](https://user-images.githubusercontent.com/72904414/96367868-8fbad300-117a-11eb-93b9-95fb3b9bad14.png)
 
 7.	Cara mengecek file tersebut ketik `git status` maka akan muncul sebagai berikut:
 
-masukan gambar
+
 
 warna merah tersebut berarti file belum di add.
 
