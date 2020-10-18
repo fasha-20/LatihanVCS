@@ -1,0 +1,2 @@
+# LatihanVCS
+Membuat Tutorian GIT
