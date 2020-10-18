@@ -27,7 +27,7 @@ Membuat Tutorian GIT
 5.	Buatlah folder tersebut menjadi repo (repository) dengan cara `git init`.
 	Jika benar akan seperti gambar di bawah ini:
     
-masukan gambar
+![image](https://user-images.githubusercontent.com/72904414/96360386-12299f80-1147-11eb-9592-acc2cdcba39d.png)
     
    jika sudah seperti ini artinya folder sudah menjadi repo. 
 
