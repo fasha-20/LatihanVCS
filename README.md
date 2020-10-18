@@ -32,9 +32,9 @@ Membuat Tutorian GIT
    jika sudah seperti ini artinya folder sudah menjadi repo. 
 
 
-6.	Setelah itu buat file **README.md** dengan mengertik `(echo “latihan 4" >> 	README.md)`
+6.	Setelah itu buat file **README.md** dengan mengertik ` (echo “latihan 4" >> 	README.md)`
 
-masukan gambar
+
 
 7.	Cara mengecek file tersebut ketik `git status` maka akan muncul sebagai berikut:
 
