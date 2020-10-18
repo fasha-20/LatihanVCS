@@ -55,7 +55,7 @@ maka warna file nya akan berubah hijau, file sudah di add.
 
 9.	Langkah selanjutnya commit file tersebut `(git commit -m “pesan”)`
 
-
+![image](https://user-images.githubusercontent.com/72904414/96368145-6d29b980-117c-11eb-9243-4b6728ad7950.png)
 
 jika tidak ada masalah maka akan seperti gambar di atas.
 
