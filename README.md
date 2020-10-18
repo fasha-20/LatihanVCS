@@ -14,14 +14,14 @@ Membuat Tutorian GIT
  
  ![image](https://user-images.githubusercontent.com/72904414/96359562-71cf7d00-113e-11eb-8c15-685ab9047c05.png)
  
- 3. 	Kemudian buatlah folder dengan mengetik di terminal `mkdir latihan1`
+ 3. 	Kemudian buatlah folder dengan mengetik di terminal `mkdir latihan4`
  
- masukan gambar
+ ![image](https://user-images.githubusercontent.com/72904414/96360315-510b2580-1146-11eb-8671-5eeba38c1d79.png)
  
- dan nantinya di folder program 1 didalam nya ada folder baru **latihan1**
+ dan nantinya di folder program 1 didalam nya ada folder baru **latihan4**
 
 
-4.	Langkah selanjut nya masuk kedalam folder **latihan1** dengan mengetik `cd latihan1`
+4.	Langkah selanjut nya masuk kedalam folder **latihan4** dengan mengetik `cd latihan4`
 
 masukan gambar
 
