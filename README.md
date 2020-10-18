@@ -38,6 +38,7 @@ Membuat Tutorian GIT
 
 7.	Cara mengecek file tersebut ketik `git status` maka akan muncul sebagai berikut:
 
+![image](https://user-images.githubusercontent.com/72904414/96367912-cb559d00-117a-11eb-9612-247925dd6b15.png)
 
 
 warna merah tersebut berarti file belum di add.
