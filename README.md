@@ -75,7 +75,7 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 13.	Maka akan muncul seperti gambar berikut 
 
-masukan gambar
+![image](https://user-images.githubusercontent.com/72904414/96368285-60599580-117d-11eb-949a-ce9a5fe7f283.png)
 
 copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptop.
 
