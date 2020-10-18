@@ -85,7 +85,8 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptop.
 
 15.	Langkah selanjutnya ketik `git push -u origin master`
 
-masukan gambar
+<img width="471" alt="git pus -u origin" src="https://user-images.githubusercontent.com/72904414/96371343-753d2580-118b-11eb-8519-65fa920b036c.png">
+
 
 maka file sudah terhubung dengan akun github anda.
 
