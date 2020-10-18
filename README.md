@@ -81,7 +81,7 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptop.
 
 14.	Cara menghubungkan nya dengan mengetik `git remote add origin <link>`
 
-masukan gambar
+![image](https://user-images.githubusercontent.com/72904414/96368323-8b43e980-117d-11eb-9615-eb67cba1220d.png)
 
 15.	Langkah selanjutnya ketik `git push -u origin master`
 
