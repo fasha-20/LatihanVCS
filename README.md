@@ -66,7 +66,7 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 12.	Langkah selanjutnya mengisi repository nya 
 
-masukan gambar
+![fasha](https://user-images.githubusercontent.com/72904414/96368239-27b9bc00-117d-11eb-9da0-11275f9f3b3f.png)
 
 - isi repository nya dengan nama “latihan1” ,untuk penamaan bisa di rubah sesui keperluan.	
 - untuk description / pesan buat lah sejelas mungkin.
