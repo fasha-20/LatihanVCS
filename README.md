@@ -49,13 +49,13 @@ warna merah tersebut berarti file belum di add.
 
 untuk mengecek nya ketik `git status`
 
-
+![image](https://user-images.githubusercontent.com/72904414/96368033-9f86e700-117b-11eb-907c-d9968c65cef5.png)
 
 maka warna file nya akan berubah hijau, file sudah di add.
 
 9.	Langkah selanjutnya commit file tersebut `(git commit -m “pesan”)`
 
-masukan gambar
+
 
 jika tidak ada masalah maka akan seperti gambar di atas.
 
