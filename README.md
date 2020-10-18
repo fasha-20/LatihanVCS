@@ -20,10 +20,9 @@ Membuat Tutorian GIT
  
  dan nantinya di folder program 1 didalam nya ada folder baru **latihan4**
 
-
 4.	Langkah selanjut nya masuk kedalam folder **latihan4** dengan mengetik `cd latihan4`
 
-masukan gambar
+![image](https://user-images.githubusercontent.com/72904414/96360356-b4955300-1146-11eb-92d5-4612a3f57f65.png)
 
 5.	Buatlah folder tersebut menjadi repo (repository) dengan cara `git init`.
 	Jika benar akan seperti gambar di bawah ini:
