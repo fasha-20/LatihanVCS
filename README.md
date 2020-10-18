@@ -12,6 +12,7 @@ Membuat Tutorian GIT
  1. Langkah pertama membuat folder **Latihan4**, saya membuat foldernya di desktop.
  2. Klik kanan pada folder yang sudah dibuat tadi lalu klik terminal lalu akan muncul seperti gambar dibawah ini :
  
+ ![image](https://user-images.githubusercontent.com/72904414/96359562-71cf7d00-113e-11eb-8c15-685ab9047c05.png)
  
  3. 	Kemudian buatlah folder dengan mengetik di terminal `mkdir latihan1`
  
